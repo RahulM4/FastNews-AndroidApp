@@ -12,4 +12,4 @@ Screenshots
 ![5](https://user-images.githubusercontent.com/75800571/235345952-a77ec2e9-67ed-45d7-b5e8-6fd7ffaa4c2e.jpg)
 
 Apk Link
-<a href="FastNews-AndroidApp/fastnew.apk"> APK </a>
+<a href="/fastnews.apk"> APK </a>
